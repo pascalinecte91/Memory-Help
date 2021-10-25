@@ -1,32 +1,3 @@
-```sh
-* assertClientCookieValueEquals()
-* assertClientHasCookie()
-* assertClientNotHasCookie()
-* assertClientRawCookieValueEquals()
-* assertHttpCodeEquals()
-* assertInputValueEquals()
-* assertInputValueNotEquals()
-* assertPageTitleContains()
-* assertPageTitleEquals()
-* assertRequestAttributeValueEquals()
-* assertResponseCookieValueEquals()
-* assertResponseCookieValueNotEquals()
-* assertResponseHasCookie()
-* assertResponseHasHeader()
-* assertResponseHeaderEquals()
-* assertResponseHeaderNotEquals()
-* assertResponseIsSuccessful()
-* assertResponseNotHasCookie()
-* assertResponseNotHasHeader()
-* assertResponseRedirects()
-* assertRouteEquals()
-* assertSelectorContainsText()
-* assertSelectorExists()
-* assertSelectorNotContainsText()
-* assertSelectorNotExists()
-```
-
-
 EN CLIQUANT SUR LES LIENS
 ```sh
 Utilisez la clickLink()méthode pour cliquer sur le premier lien qui contient le texte donné (ou la première image cliquable avec cet altattribut) :
